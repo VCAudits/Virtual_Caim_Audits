@@ -1,0 +1,7 @@
+Notice: Temporary Archival of Smart Contract Audit Reports
+
+As part of ongoing maintenance and updates to our social media accounts and official website, we have temporarily archived the previously published Smart Contract Audit Reports from our GitHub repositories.
+
+The reports will be made accessible again once the maintenance process is complete.
+
+Last Updated: November 6, 2025
